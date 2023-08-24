@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #PhoenixPars
 import socket
 Host_Name = socket.gethostname()
